@@ -1,2 +1,2 @@
 # GROFRESH
-web application for grocery services built on html, css and javascript
+E-Commerce Web Store for grocery services built on HTML, CSS, and JavaScript.
